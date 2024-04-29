@@ -1,7 +1,7 @@
 /**
  * This is the supporting code for the cryptfolio web application.
  * 
- * Do note use this file firectly, launch the ./app.hmtl which will call functions
+ * Do note use this file directly, launch the ./app.hmtl which will call functions
  * in this file as required. 
  * 
  * Copywrite eccpluto
